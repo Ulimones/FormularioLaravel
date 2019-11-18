@@ -61,16 +61,6 @@ class FormularioController extends Controller
             'vocacion.required'=>'Debes ingresar tu vocación',
             'premio.required'=>'Debes ingresar un premio',
             'seguirvocacion.required'=>'Debes ingresar tu vocación a seguir',
-            // 'fechalanza.required'=>'Debes ingresar fecha de lanzamiento',
-            // 'sinopsis.required'=>'Debes ingresar una sinopsis de la película',
-            // 'duracion.numeric'=>'La duración debe ser en minutos',
-            // 'duracion.required'=>'Debes ingresar la duración',
-            // 'duracion.max'=>'La película debe durar más de 300min',
-            // 'pais_id.required'=>'Debes seleccionar un país',
-            // 'genero_id.required'=>'Debes seleccionar un genero',
-            // 'clasificacion_id.required'=>'Debes seleccionar una clasificación',
-            // 'Imagen.image'=>'solo puedes agragar imagenes ,jpg, .png, etc',
-            // 'Imagen.required'=>'Debes seleccionar una imagen',
         ]);
 
 
